@@ -1,0 +1,12 @@
+.TrackProducerWriterArtists{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2vw;
+}
+.TrackProducerWriterArtistsImages{
+    display: flex;
+    justify-content: center;
+}
+.TrackProducerWriterArtistsTitle{
+    align-self: center;
+}

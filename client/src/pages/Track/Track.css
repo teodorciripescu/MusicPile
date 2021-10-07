@@ -1,0 +1,13 @@
+.TrackInfoDescriptionCol{
+    display: flex;
+    align-items: center;
+}
+
+.TrackThumbnailCol{
+    display: flex;
+    justify-content: center;
+}
+
+.TrackPlainTextDescription{
+    margin-top: 1vw;
+}

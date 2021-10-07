@@ -1,0 +1,33 @@
+.topSongsTitle{
+    text-align: center;
+    margin: 1em;
+}
+
+.topSongsViewAllButton{
+    margin:auto;
+    margin-top: 1vw;
+    margin-bottom: 3vw;
+    width:80%;
+}
+.topSongsContainer{
+    display: flex;
+    flex-direction:column;
+}
+
+.SpotifyTrackLogo{
+    height: 1.8em;
+    margin-left: 0.5em;
+    margin-right:0.5em;
+}
+
+.YoutubeTrackLogo{
+    height: 1.5em;
+    margin-left: 0.5em;
+    margin-right:0.5em;
+}
+
+.SoundcloudTrackLogo{
+    height: 1.8em;
+    margin-left: 0.5em;
+    margin-right:0.5em;
+}

@@ -1,0 +1,14 @@
+.ArtistAlbumsListContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.ArtistAlbumsTitle{
+    padding: 1em;
+}
+
+.AlbumsNavigation{
+    padding: 1em;
+
+}
+

@@ -1,0 +1,28 @@
+.ArtistDescription{
+    margin: 1vw;
+}
+
+.artistDescriptionBagde{
+    margin-left: 1vw;
+}
+
+@media screen and (max-width: 750px) {
+    .ArtistDescriptionGenres{
+    }
+    .ArtistDescription > *{
+        display: flex;
+        justify-content: center;
+    }
+    .ArtistDescription{
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        padding: 1em;
+    }
+}
+
+.SocialMediaLogo{
+    height: 2em;
+    margin: 0.5em;
+
+}

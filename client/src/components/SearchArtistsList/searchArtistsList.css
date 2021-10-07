@@ -1,0 +1,9 @@
+.SearchArtistsList{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2vw;
+}
+.SearchArtistsImages{
+    display: flex;
+    justify-content: center;
+}

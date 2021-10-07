@@ -1,0 +1,12 @@
+.AlbumArtists{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2vw;
+}
+.AlbumArtistsImages{
+    display: flex;
+    justify-content: center;
+}
+.AlbumArtistTitle{
+    align-self: center;
+}

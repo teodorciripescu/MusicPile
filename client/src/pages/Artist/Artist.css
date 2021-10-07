@@ -1,0 +1,15 @@
+.ArtistInfoDescriptionCol{
+    display: flex;
+    align-items: center;
+}
+
+.ArtistThumbnailCol{
+    display: flex;
+    justify-content: center;
+}
+
+.ArtistSpinner{
+    display: flex;
+    justify-content: center;
+}
+

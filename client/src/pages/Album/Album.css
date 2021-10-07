@@ -1,0 +1,14 @@
+.AlbumInfoDescriptionCol{
+    display: flex;
+    align-items: center;
+}
+
+.AlbumThumbnailCol{
+    display: flex;
+    justify-content: center;
+}
+
+.AlbumTracks{
+    display: flex;
+    justify-content: center;
+}

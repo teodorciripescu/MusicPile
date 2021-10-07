@@ -1,0 +1,12 @@
+.TrackArtists{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2vw;
+}
+.TrackArtistsImages{
+    display: flex;
+    justify-content: center;
+}
+.TrackArtistTitle{
+    align-self: center;
+}

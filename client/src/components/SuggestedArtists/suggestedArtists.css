@@ -1,0 +1,10 @@
+.SuggestedArtists{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2vw;
+}
+.suggestedArtistsTitle{
+    margin:1em;
+}
+

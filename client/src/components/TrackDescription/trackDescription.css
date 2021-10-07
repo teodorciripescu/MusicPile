@@ -1,0 +1,53 @@
+.TrackDescription{
+    margin: 1vw;
+}
+
+.trackDescriptionBagde{
+    margin-left: 1vw;
+}
+
+@media screen and (max-width: 750px) {
+    .TrackDescriptionGenres{
+    }
+    .TrackDescription > *{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .TrackDescription{
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        padding: 1em;
+    }
+}
+
+.SocialMediaLogo{
+    height: 2em;
+    margin: 0.5em;
+
+}
+
+.TrackSpotifyLogo{
+    height: 2.5em;
+    margin-left: 0.5em;
+    margin-right:0.5em;
+}
+
+.TrackYoutubeLogo{
+    height: 2.3em;
+    margin-left: 0.5em;
+    margin-right:0.5em;
+}
+
+.TrackSoundcloudLogo{
+    height: 2.3em;
+    margin-left: 0.5em;
+    margin-right:0.5em;
+}
+
+.TrackAppleMusicLogo{
+    height: 2.3em;
+    margin-left: 0.5em;
+    margin-right:0.5em;
+}

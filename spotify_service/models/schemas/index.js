@@ -1,0 +1,11 @@
+exports.artist = require('./artists');
+exports.all_artists = require('./all_artists');
+exports.top_tracks = require('./top_tracks');
+exports.top_albums = require('./top_albums');
+exports.albums = require('./albums');
+exports.tracks = require('./tracks');
+exports.tracks_audio_features = require('./tracks_audio_features');
+exports.related_artists = require('./related_artists');
+exports.top50songs = require('./top50songs');
+exports.top_artists = require('./top_artists');
+exports.search_artists = require('./search_artists');

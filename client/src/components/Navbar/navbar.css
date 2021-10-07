@@ -1,0 +1,29 @@
+.Nav{
+    display: flex;
+    flex: 1;
+    margin-left: 1em;
+}
+
+.NavbarBrand{
+    margin-left: 1em;
+}
+.NavbarToggle{
+    margin-right: 1em;
+}
+.NavDropdown{
+    margin-right: 1em;
+}
+
+.NavbarForm{
+    display: inline-flex;
+    margin: auto;
+}
+
+.FormSearchBox{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.FormButton{
+    margin-right: 1em;
+}

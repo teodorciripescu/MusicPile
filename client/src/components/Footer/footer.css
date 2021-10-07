@@ -1,0 +1,17 @@
+footer{
+    /*padding-top:3em;*/
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+footer > p{
+    margin: 1em;
+    font-weight:bold;
+}
+
+.FooterLogo{
+    margin: 1em;
+    height: 2em;
+}

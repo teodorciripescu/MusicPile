@@ -1,0 +1,13 @@
+.LineChartWrapper{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+.LineChartStyle{
+    overflow: visible;
+}
+.LineChartTitle{
+    display: flex;
+    justify-content: center;
+    padding: 1.5em;
+}

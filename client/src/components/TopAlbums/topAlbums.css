@@ -1,0 +1,15 @@
+.topAlbumsTitle{
+    text-align: center;
+    margin: 1em;
+}
+
+.topAlbumsViewAllButton{
+    margin:auto;
+    margin-top: 1vw;
+    margin-bottom: 3vw;
+    width:80%;
+}
+.topAlbumsContainer{
+    display: flex;
+    flex-direction:column;
+}

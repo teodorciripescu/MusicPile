@@ -1,0 +1,24 @@
+.AlbumDescription{
+    margin: 1vw;
+}
+
+.albumDescriptionBagde{
+    margin-left: 1vw;
+}
+
+@media screen and (max-width: 667px) {
+    .AlbumDescriptionGenres{
+    }
+    .AlbumDescription > *{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
+
+.AlbumSpotifyLogo{
+    height: 2.5em;
+    margin-left: 0.5em;
+    margin-right:0.5em;
+}
